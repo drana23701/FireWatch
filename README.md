@@ -1,4 +1,7 @@
-Predicting Forest Fires using Machine Learning
+FireWatch: Predicting Forest Fires and Wildfire Danger with Machine Learning 
+
+By Dhruv Rana and Nikhil Nair
+ 
 
 Four different methods were experimented with:
 
@@ -10,7 +13,6 @@ Four different methods were experimented with:
 
 4. Deep Neural Networks
 
-By Dhruv Rana, Nikhil Nair
 
 To run program: go to terminal and git clone this GitHub, then cd to this folder, and then run Jupyter notebook and open forestfirePredictions.ipynb
 
