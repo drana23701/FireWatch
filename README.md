@@ -1,4 +1,4 @@
-Predicting Forest Fires using Deep Learning
+Predicting Forest Fires using Machine Learning
 
 Four different methods were experimented with:
 
