@@ -14,4 +14,3 @@ By Dhruv Rana, Nikhil Nair
 
 To run program: go to terminal and git clone this GitHub, then cd to this folder, and then run Jupyter notebook and open forestfirePredictions.ipynb
 
-Other example notebooks are in the examples folder
